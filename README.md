@@ -1,4 +1,4 @@
-# 🐝 BeeCrowd Solutions
+# 🐝 Exercícios BeeCrowd 
 
 Bem-vindo(a) ao repositório de **Soluções de Exercícios da Plataforma BeeCrowd**! 🏆
 
