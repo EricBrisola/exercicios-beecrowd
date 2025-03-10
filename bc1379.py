@@ -1,6 +1,6 @@
 while True:
     try:
-        entry = str(input()).split(' ')
+        entry = input().split(' ')
 
         if entry[0] == '0' and entry[1] == '0':
             break
